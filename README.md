@@ -1,5 +1,5 @@
 Empty repository to store comments
 
 Used by:
-- [khusika.com](https://khusika.dev)
-- [feelit.khusika.com](https://feelit.khusika.dev)
+- [khusika.dev](https://khusika.dev)
+- [feelit.khusika.dev](https://feelit.khusika.dev)
